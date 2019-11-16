@@ -94,10 +94,10 @@ else
 		</td>
 		<td></td>
 		<td>
-			<a href="http://wsbrradio.com/" target="_new"><img src="images/wsbr.png" width="75" height="75" alt="jukebox" /></a></a>
+			<a href="http://wwnnradio.com/" target="_new"><img src="images/WWNN.png" width="75" height="75" alt="jukebox" /></a></a>
 		</td>
 		<td valign="center">
-			<a href="http://wsbrradio.com/" target="_new"><img src="images/button_wsbr-am.png" width="250" height="38" alt="jukebox" /></a></a>
+			<a href="http://wwnnradio.com/" target="_new"><img src="images/button_wwnn.png" width="250" height="38" alt="jukebox" /></a></a>
 		</td>
 		<tr>
 		
