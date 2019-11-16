@@ -76,15 +76,9 @@ news and otherwise overlooked stories are shared with the audience. Events takin
 
 place in the South Florida Jewish community are announced (see <a href = "./contact.php">Contact Us</a> to have
 your announcement included).</p>
-    <div class="title">THE STATION - <i>WSBR 740 AM</i></div>
-    <p>WSBR is a powerful AM station located in Boca Raton, FL. The location and power of
-the facility enables “Shalom South Florida” to reach listeners throughout the entire
-Jewish marketplace - Miami-Dade, Broward and Palm Beach counties. The frequency is
-740 kHz. The major cities in the coverage area include: Miami Beach, North Miami
-Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton,
-Delray Beach, Boynton Beach and Wellington. WSBR’s transmitter facility is state of the
-art technology offering premium AM sound reproduction with the greatest possible
-reliability.</p>
+    <div class="title">THE STATION - <img src="images/WWNN.png" height="20px"</div>
+    <p>WWNN is South Florida’s “Health and Wealth Network”. Founded in 1989, WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com">wwnnradio.com</a>). The location and power of their AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WSBR’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our coverage page to see a map showing Shalom South Florida’s reach!
+</p>
 
     <div class="title">THE HOST - <i>RONI</i></div>
 <p>Jewish radio show host, RONI, has been hosting Jewish radio in South Florida for 33
