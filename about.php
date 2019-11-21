@@ -77,7 +77,7 @@ news and otherwise overlooked stories are shared with the audience. Events takin
 place in the South Florida Jewish community are announced (see <a href = "./contact.php">Contact Us</a> to have
 your announcement included).</p>
     <div class="title">THE STATION - <img src="images/WWNN.png" height="20px"</div>
-    <p>WWNN is South Florida’s “Health and Wealth Network”. Founded in 1989, WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com">wwnnradio.com</a>). The location and power of their AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WSBR’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our coverage page to see a map showing Shalom South Florida’s reach!
+    <p>WWNN is South Florida’s “Health and Wealth Network.”  WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com/">https://wwnnradio.com/</a>). The location and power of their 50,000 watt AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WWNN’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our coverage page to see a map showing Shalom South Florida’s reach!
 </p>
 
     <div class="title">THE HOST - <i>RONI</i></div>
@@ -104,16 +104,16 @@ communities in the country.<br />
     
     <div class="right_content">
     	
-        <a href="http://wsbrradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
+        <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
-		<li>In South Florida: WSBR 740 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 96.9 &amp; 103.9 FM</li>
-		<li>Worldwide: <a href="http://www.WSBRradio.com" target="_blank">www.WSBRradio.com</a></li>
-		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WSBR)</li>
+		<li>In South Florida: WWNN 1470 AM</li>
+		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
+		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
+		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
 	</ol>
     
   <img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" />

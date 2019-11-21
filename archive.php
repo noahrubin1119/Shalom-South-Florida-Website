@@ -1357,17 +1357,16 @@ else
     
   <div class="right_content">
     	
-        <a href="http://wsbrradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
-
-
+        <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
+    
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
-		<li>In South Florida: WSBR 740 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 96.9 &amp; 103.9 FM</li>
-		<li>Worldwide: <a href="http://www.WSBRradio.com" target="_blank">www.WSBRradio.com</a></li>
-		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WSBR)</li>
+		<li>In South Florida: WWNN 1470 AM</li>
+		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
+		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
+		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
 	</ol>
 
       <div id="menu2">
