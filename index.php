@@ -38,7 +38,7 @@ $m=date("i");
 if( ($d=="Sun") && ($h==9) && ($m>29) )
 	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
 	
-elseif( ($d=="Sun") && ($h==10) && ($m<59) )
+elseif( ($d=="Sun") && ($h==10) && ($m<29) )
 	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
 else
 	echo '<img src="images/offair.png" alt="offair" title="" border="0" />';
@@ -93,14 +93,14 @@ Mass Communication.</p>
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
 		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol>
+	</ol></p>
 		
         <center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
 
@@ -124,7 +124,7 @@ Mass Communication.</p>
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
        <p>&nbsp;</p></div>

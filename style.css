@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 body {
 	background:url(images/bg.jpg) repeat #fff;
@@ -13,7 +14,14 @@ p{
 	text-align:justify;
 	line-height:18px;
 	padding:0px 0 5px 0;
-	font-family: 'Varela Round', serif;
+	font-family: 'Lora', serif;
+}
+
+li{
+	text-align:justify;
+	line-height:18px;
+	padding:0px 0 5px 0;
+	font-family: 'Lora', serif;
 }
 
 h1 {
@@ -74,6 +82,13 @@ padding:15px 23px 0 0;
     cursor: pointer;
 	border-radius: 5px;
 }
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
 audio { 
 	width: 300px; 
 	color: #7E0A37;

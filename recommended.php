@@ -27,12 +27,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0" height="152"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m<30) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0" height="152"/>';
 else
-	echo '<img src="images/offair.png" alt="offair" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="offair" title="" border="0" height="152"/>';
 
 
 ?>        
@@ -94,7 +94,7 @@ else
 		</td>
 		<td></td>
 		<td>
-			<a href="http://wwnnradio.com/" target="_new"><img src="images/WWNN.png" width="75" height="75" alt="jukebox" /></a></a>
+			<a href="http://wwnnradio.com/" target="_new"><img src="images/WWNN.png" width="75" alt="jukebox" /></a></a>
 		</td>
 		<td valign="center">
 			<a href="http://wwnnradio.com/" target="_new"><img src="images/button_wwnn.png" width="250" height="38" alt="jukebox" /></a></a>
@@ -129,7 +129,7 @@ else
 		   </tr>
 
 <td> <center> <p><a href="http://www.israelnationalnews.com/" target="_new"><img src="images/arutz_sheva.png" width="200" height="50" alt="arutz_sheva" /></a></p> </center> </td>
-<td> <center> <p><a href="http://wsbrradio.com/" target="_new"><img src="images/wsbr.png" width="250" height="100" alt="wsbr" /></a></p> </center> </td>
+<td> <center> <p><a href="http://WWNNradio.com/" target="_new"><img src="images/WWNN.png" width="250" height="100" alt="WWNN" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.jnf.org/" target="_new"><img src="images/jnf-new.png" width="200" height="150" alt="jnf" /></a></p> </center> </td>
 			</tr>
 <td></td>
@@ -154,7 +154,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
     <p>&nbsp;</p></div>

@@ -26,12 +26,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m>=0) && (m< 59) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 else
-	echo '<img src="images/offair.png" alt="" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="" title="" border="0"/>';
 
 
 ?>        
@@ -61,17 +61,22 @@ else
     Have a new album out? Send it to us for possible airplay.</p>
 	<p>Attn: Roni<br />
 	Shalom South Florida<br />
-	c/o WSBR-AM<br />
+	c/o WWNN-AM<br />
 	1650 South Dixie Highway<br />
     Fifth Floor<br />
     Boca Raton, FL 33432</p>
 	<p>Free community event coming up? Get us a Press Release at least two weeks in advance:</p>
     <p>Attn: Roni<br />
 Shalom South Florida<br />
-c/o WSBR-AM<br />
+c/o WWNN-AM<br />
 1650 South Dixie Highway<br />
 Fifth Floor<br />
 Boca Raton, FL 33432</p>
+
+<p>Get your message to South Florida's large Jewish community:<br /> 
+          Contact us at (561) 750-0888 or send us an e-mail to <a href="mailto:roni@shalomsouthflorida.com">roni@shalomsouthflorida.com</a>.</p>
+      <p>Want to hear a song? Make a request or dedication.  Give us your comments and suggestions:<br />
+        Call our office at (561) 750-0888, or send  an e-mail to <a href="mailto:roni@shalomsouthflorida.com">roni@shalomsouthflorida.com</a>.</p>
     <div id="menu2">
       <div class="title">Connect with Us!</div>
       <center>
@@ -87,18 +92,15 @@ Boca Raton, FL 33432</p>
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
 		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol>
-	<p>Get your message to South Florida's large Jewish community:<br /> 
-          Contact us at (561) 750-0888 or send us an e-mail to <a href="mailto:roni@shalomsouthflorida.com">roni@shalomsouthflorida.com</a>.</p>
-      <p>Want to hear a song? Make a request or dedication.  Give us your comments and suggestions:<br />
-        Call our office at (561) 750-0888, or send  an e-mail to <a href="mailto:roni@shalomsouthflorida.com">roni@shalomsouthflorida.com</a>.</p>
+	</ol></p>
+	
         <p><center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>&nbsp;</p>
         
         <!--Start of Calendar Event--><!--End of Calendar Event-->
@@ -112,7 +114,7 @@ Boca Raton, FL 33432</p>
 <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
     <p>&nbsp;</p></div>

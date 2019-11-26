@@ -35,12 +35,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m<30) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0"/>';
 else
-	echo '<img src="images/offair.png" alt="offair" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="offair" title="" border="0"/>';
 
 
 ?>        
@@ -1101,7 +1101,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>		   
--->
+
 <td>September 1st, 2019<br />
                9:30-10:30</td>
             <td>
@@ -1196,7 +1196,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>
-		   
+-->		   
 <td>October 6th, 2019<br />
                9:30-10:30</td>
             <td>
@@ -1360,14 +1360,14 @@ else
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
 		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol>
+	</ol></p>
 
       <div id="menu2">
         <div class="title">Connect with Us!</div>
@@ -1386,7 +1386,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"></a>
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"></a>
        <p>&nbsp;</p></div>
         
      	<div class="copyright">&copy;<?php $y=date(Y); echo "$y"; ?> Shalom South Florida, Inc.</div>    

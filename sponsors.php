@@ -27,12 +27,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0" height="152"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m<30) )
-	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="onair" title="" border="0" height="152"/>';
 else
-	echo '<img src="images/offair.png" alt="offair" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="offair" title="" border="0" height="152"/>';
 
 
 ?>        
@@ -119,7 +119,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
     <p>&nbsp;</p></div>

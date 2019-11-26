@@ -27,12 +27,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m>=0) && (m< 59) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 else
-	echo '<img src="images/offair.png" alt="" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="" title="" border="0"/>';
 
 
 ?>        
@@ -57,9 +57,9 @@ else
     </div>
     
   <div class="left_content">
-    <div class="title">Coverage Map of WSBR 740 AM</div>
+    <div class="title">Coverage Map of WWNN 740 AM</div>
 	<p><img src="images/coverage_map.gif" width="465" height="465" alt="coverage_map" /></p>
-	<p>WSBR broadcasts from Boca Raton, FL reaching from Miami Beach to West Palm Beach.</p>
+	<p>WWNN broadcasts from Boca Raton, FL reaching from Miami Beach to West Palm Beach.</p>
   </div>
     
     <div class="right_content">
@@ -67,14 +67,14 @@ else
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
 		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol>
+	</ol></p>
     
     
   <center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
@@ -88,7 +88,7 @@ else
 <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
     <p>&nbsp;</p></div>

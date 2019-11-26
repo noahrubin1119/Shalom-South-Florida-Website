@@ -26,12 +26,12 @@ $m=date("i");
 
 
 if( ($d=="Sun") && ($h==9) && ($m>29) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 	
 elseif( ($d=="Sun") && ($h==10) && ($m>=0) && (m< 59) )
-	echo '<img src="images/onair.png" alt="" title="" border="0" />';
+	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 else
-	echo '<img src="images/offair.png" alt="" title="" border="0" />';
+	echo '<img src="images/offair.png" alt="" title="" border="0"/>';
 
 
 ?>        
@@ -57,8 +57,8 @@ else
     
   <div class="left_content">
     <div class="title">THE FORMAT</div>
-	<p><span class="title"><center><b>“TODAY’S JEWISH MUSIC…WITH A TASTE OF THE PAST&#8480&quot;</b></center>
-    &quot;Shalom South Florida&quot; is dedicated to providing its listeners with the highest quality
+	<p><span class="title"><center><b>“TODAY’S JEWISH MUSIC…WITH A TASTE OF THE PAST&#8480&quot;</b></center></p>
+    <p>&quot;Shalom South Florida&quot; is dedicated to providing its listeners with the highest quality
 Jewish radio show. We are committed to featuring the latest hits by the current, most
 popular Jewish music artists, while staying true to the roots of Jewish music by
 providing the classics. The program features Chassidic artists like YAAKOV SHWEKEY,
@@ -76,7 +76,7 @@ news and otherwise overlooked stories are shared with the audience. Events takin
 
 place in the South Florida Jewish community are announced (see <a href = "./contact.php">Contact Us</a> to have
 your announcement included).</p>
-    <div class="title">THE STATION - <img src="images/WWNN.png" height="20px"</div>
+    <div class="title">THE STATION</br><img src="images/WWNN.png" height="100px"></div>
     <p>WWNN is South Florida’s “Health and Wealth Network.”  WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com/">https://wwnnradio.com/</a>). The location and power of their 50,000 watt AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WWNN’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our coverage page to see a map showing Shalom South Florida’s reach!
 </p>
 
@@ -107,14 +107,14 @@ communities in the country.<br />
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
+      </p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../archive.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
 		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol>
+	</ol></p>
     
   <img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" />
     <div id="menu2">
@@ -130,7 +130,7 @@ communities in the country.<br />
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://wsbrradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
       src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
         
     <p>&nbsp;</p></div>
