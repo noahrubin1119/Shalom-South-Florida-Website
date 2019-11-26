@@ -57,9 +57,35 @@ else
     </div>
     
   <div class="left_content">
-    <div class="title">Coverage Map of WWNN 740 AM</div>
-	<p><img src="images/coverage_map.gif" width="465" height="465" alt="coverage_map" /></p>
-	<p>WWNN broadcasts from Boca Raton, FL reaching from Miami Beach to West Palm Beach.</p>
+    <div class="title">Coverage Maps</div>
+	
+	<p>Click on a button to show the station's coverage map!</p>
+	<button onclick="changePic(1470)" class="cov_button">1470 AM</button>
+	<button onclick="changePic(953)" class="cov_button">95.3 FM</button></br>
+	<button onclick="changePic(969)" class="cov_button">96.9 FM</button>
+	<button onclick="changePic(1039)"class="cov_button">103.9 FM</button>
+	
+	<script>
+		function changePic(id){
+			var mapView = document.getElementById("map");
+			var mapId = document.getElementById("mapTitle");
+			
+			var dictOfMaps = {
+				'1470': "WWNN 1470 AM",
+				'953': "95.3 FM",
+				'969': "96.9 FM",
+				'1039': "103.9 FM"
+			}
+			
+			console.log(id);
+			mapView.src = "images/" + id + ".gif";
+			mapId.innerHTML = dictOfMaps[id];
+		}
+	</script>
+	
+	<div class="title" id="mapTitle">WWNN 1470 AM</div>
+	<p><img id="map" src="images/1470.gif" width="465" height="465" alt="coverage_map" /></p>
+	
   </div>
     
     <div class="right_content">
