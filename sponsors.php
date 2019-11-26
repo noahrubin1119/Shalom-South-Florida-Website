@@ -53,7 +53,7 @@ else
             <li><a href="coverage.php" title="">Coverage Map</a></li>
             <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
-            <li><a href="archive.php"><u><strong>Podcasts</strong></u></a></li>
+            <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
     </ul>
   </div>
   
@@ -119,8 +119,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="61" height="18" /></a><a href="#"> </a>
+        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
         
     <p>&nbsp;</p></div>
         
