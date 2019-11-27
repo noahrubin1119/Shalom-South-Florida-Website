@@ -73,10 +73,20 @@ Chassidic, Israeli, and Yiddish music, as well as Jewish news and other items of
 to this large market. Jewish comedy, on-air contests, and informative interviews are
 always part of this exciting show.</p>
 	<div class="title">The Host</div>
-    <p>	Jewish radio host, RONI, makes sure that all listeners have a great time listening to
+    <p>	Jewish radio host, Roni, makes sure that all listeners have a great time listening to
 &quot;Shalom South Florida&quot; every Sunday. First hitting the South Florida airwaves in 1986,
-RONI quickly became Florida&#39;s Jewish radio &quot;maven.&quot; RONI has an M.S. in Journalism
+Roni quickly became Florida&#39;s Jewish radio &quot;maven.&quot; Roni has an M.S. in Journalism
 Mass Communication.</p>
+
+<div class="title">Ways to Listen to Shalom South Florida:</div>
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
+	  
+	  <ol>
+		<li>In South Florida: WWNN 1470 AM</li>
+		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
+		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
+		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
+	</ol></p>
     <p>&nbsp;</p>
     
     <div class="photo_gallery">
@@ -92,16 +102,8 @@ Mass Communication.</p>
     	
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
-		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
-	  
-	  <ol>
-		<li>In South Florida: WWNN 1470 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
-		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
-		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol></p>
-		
+		<img src="images/roni.jpg" width="85%"></img>
+		</br></br>
         <center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
 
 

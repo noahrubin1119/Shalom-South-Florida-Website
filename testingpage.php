@@ -4,9 +4,10 @@
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	  
 	  <meta name="viewport" content="width=device-width,initial scale=1">
 
-<title>Shalom South Florida</title>
+<title>Shalom South Florida - Coverage Map</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 
@@ -45,7 +46,14 @@ else
     <div id="menu">
         <ul>                                                                                                                      
             <li><a href="index.php" title="">Home</a></li>
-            <li><a href="about.php" title="">About Us</a></li>
+            <li><div class="dropdown">
+				<div id="drop">About Us</div>
+					<div class="dropdown-content">
+					  <li><a href="#">Link 1</a></li>
+					  <li><a href="#">Link 2</a></li>
+					  <li><a href="#">Link 3</a></li>
+					  </div>
+			</div></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
             <li><a href="recommended.php" title="">Recommended Links</a></li>
@@ -56,35 +64,9 @@ else
     </div>
     
   <div class="left_content">
-    <div class="title">Contact Us</div>
-	<p>
-    Have a new album out? Send it to us for possible airplay.</p>
-	<p>Attn: Roni<br />
-	Shalom South Florida<br />
-	c/o WWNN-AM<br />
-	1650 South Dixie Highway<br />
-    Fifth Floor<br />
-    Boca Raton, FL 33432</p>
-	<p>Free community event coming up? Get us a Press Release at least two weeks in advance:</p>
-    <p>Attn: Roni<br />
-Shalom South Florida<br />
-c/o WWNN-AM<br />
-1650 South Dixie Highway<br />
-Fifth Floor<br />
-Boca Raton, FL 33432</p>
-
-<p>Get your message to South Florida's large Jewish community:<br /> 
-          Contact us at (561) 750-0888 or send us an e-mail to <a href="mailto:Roni@shalomsouthflorida.com">Roni@shalomsouthflorida.com</a>.</p>
-      <p>Want to hear a song? Make a request or dedication.  Give us your comments and suggestions:<br />
-        Call our office at (561) 750-0888, or send  an e-mail to <a href="mailto:Roni@shalomsouthflorida.com">Roni@shalomsouthflorida.com</a>.</p>
-    <div id="menu2">
-      <div class="title">Connect with Us!</div>
-      <center>
-        <a href="https://www.facebook.com/pages/Shalom-South-Florida/325922271798" target="_new"><img src="images/facebook.png" width="50" height="50" alt="facebook" /></a><a href="http://twitter.com/#!/shalomsouthfl" target="_new"><img src="images/twitter.png" width="50" height="50" alt="twitter"  /></a>
-        <br />
-      </center>
-    </div>
-    <p>&nbsp;</p>
+    <div class="title">Testing Page</div>
+	
+	
   </div>
     
     <div class="right_content">
@@ -100,17 +82,16 @@ Boca Raton, FL 33432</p>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
 	</ol></p>
-	
-        <p><center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>&nbsp;</p>
-        
-        <!--Start of Calendar Event--><!--End of Calendar Event-->
     
     
-    
-  </div>
-    
-
-
+  <center><img src="images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
+      <div id="menu2">
+      <div class="title">Connect with Us!</div>
+      
+        <a href="https://www.facebook.com/pages/Shalom-South-Florida/325922271798" target="_new"><img src="images/facebook.png" width="50" height="50" alt="facebook" /></a><a href="https://twitter.com/shalomsouthFL" target="_new"><img src="images/twitter.png" width="50" height="50" alt="twitter"  /></a> <br />
+      
+    </div>
+</div>
 <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>

@@ -77,11 +77,11 @@ news and otherwise overlooked stories are shared with the audience. Events takin
 place in the South Florida Jewish community are announced (see <a href = "./contact.php">Contact Us</a> to have
 your announcement included).</p>
     <div class="title">THE STATION</br><img src="images/WWNN.png" height="100px"></div>
-    <p>WWNN is South Florida’s “Health and Wealth Network.”  WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com/">https://wwnnradio.com/</a>). The location and power of their 50,000 watt AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WWNN’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our coverage page to see a map showing Shalom South Florida’s reach!
+    <p>WWNN is South Florida’s “Health and Wealth Network.”  WWNN has listeners locally and nationally - through its website (<a href="https://wwnnradio.com/">https://wwnnradio.com/</a>). The location and power of their 50,000 watt AM facility enable Shalom South Florida to reach listeners throughout the entire South Florida Jewish marketplace in Miami-Dade, Broward, and Palm Beach Counties.The major cities in the coverage area include: Miami Beach, North Miami Beach, Hallandale, Hollywood, Sunrise, Coral Springs, Deerfield Beach, Boca Raton, Delray Beach, Boynton Beach and Wellington. WWNN’s transmitter facility is state of the art technology offering premium AM sound reproduction with the greatest possible reliability. Check out our <a href="/coverage.php">coverage maps</a> to see the reach of "Shalom South Florida"!
 </p>
 
-    <div class="title">THE HOST - <i>RONI</i></div>
-<p>Jewish radio show host, RONI, has been hosting Jewish radio in South Florida for 33
+    <div class="title">THE HOST - <i>Roni</i></div>
+<p>Jewish radio show host, Roni, has been hosting Jewish radio in South Florida for 33
 years. His goal is to make sure that all listeners have a great time listening to &quot;Shalom
 South Florida&quot; every Sunday morning. Roni knows his music - He boasts one of the
 largest Jewish music collections in the country, and has an M.S. in Journalism &amp; Mass
