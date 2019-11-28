@@ -63,7 +63,8 @@ else
         </ul>
     </div>
   <div class="left_content">
-    <div class="title">Testing Page</div>
+    <div class="title">Jewish Music Reviews</div>
+		
 	
 	
   </div>
