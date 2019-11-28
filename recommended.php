@@ -68,36 +68,36 @@ else
 				
 				table {border: none;}
 	</style>
-
+		
 		<td>
 			<a href="http://www.jewishheritageday.org/" target="_new"><img src="images/jhd.png" width="75" height="75" alt="jewish_heritage_day" /></a>
 		</td>
 		
 		<td valign="center">
-			<a href="http://www.jewishheritageday.org/" target="_new"><img src="images/button_jewish-heritage-day2.png" width="250" height="38" alt="jewish_heritage_day" /></a>
+			<a href="http://www.jewishheritageday.org/" target="_new"><button class="cov_button" style="width:250px;">Jewish Heritage Day</button></a>
 		</td>
 		<td></td>
 		<td align="center">
 			<a href="http://www.israelnationalnews.com/" target="_new"><img src="images/arutz_sheva.png" width="50" height="50" alt="jewish_heritage_day" /></a>
 		</td>
 		<td valign="center">
-			<a href="http://www.israelnationalnews.com/" target="_new"><img src="images/button_arutz-sheva.png"  width="250" height="38" alt="jewish_heritage_day" /></a>
+			<a href="http://www.israelnationalnews.com/" target="_new"><button class="cov_button" style="width:250px;">Arutz Sheva</button></a>
 		</td>
 		
 		<tr>
 		
 		<td>
-			<a href="https://mostlymusic.com/" target="_new"><img src="images/mostly_music.png" width="75" height="75" alt="jukebox" /></a></a>
+			<a href="https://mostlymusic.com/" target="_new"><img src="images/mostly_music.png" width="75" height="75" alt="jukebox" /></a>
 		</td>
 		<td valign="center">
-			<a href="https://mostlymusic.com/" target="_new"><img src="images/button_mostly-music.png" width="250" height="38" alt="jukebox" /></a></a>
+			<a href="https://mostlymusic.com/" target="_new"><button class="cov_button" style="width:250px;">Mostly Music</button></a>
 		</td>
 		<td></td>
 		<td>
 			<a href="http://wwnnradio.com/" target="_new"><img src="images/WWNN.png" width="75" alt="jukebox" /></a></a>
 		</td>
 		<td valign="center">
-			<a href="http://wwnnradio.com/" target="_new"><img src="images/button_wwnn.png" width="250" height="38" alt="jukebox" /></a></a>
+			<a href="http://wwnnradio.com/" target="_new"><button class="cov_button" style="width:250px;">WWNN 1470 AM</button></a>
 		</td>
 		<tr>
 		
@@ -105,14 +105,14 @@ else
 			<a href="http://www.jewishpress.com/" target="_new"><img src="images/jewishpress.png" width="75" height="75" alt="jewish_heritage_day" /></a>
 		</td>
 		<td valign="center">
-			<a href="http://www.jewishpress.com/" target="_new"><img src="images/button_the-jewish-press.png" width="250" height="38" alt="jewish_heritage_day" /></a>
+			<a href="http://www.jewishpress.com/" target="_new"><button class="cov_button" style="width:250px;">The Jewish Press</button></a>
 		</td>
 		<td></td>
 		<td>
-			<a href="http://www.jnf.org/" target="_new"><img src="images/jnf-new.png" width="75" height="75" alt="jewish_heritage_day" /></a>
+			<a href="http://www.jnf.org/" target="_new"><img src="images/jnf-new.png" width="75" alt="jewish_heritage_day" /></a>
 		</td>
 		<td valign="center">
-			<a href="http://www.jnf.org/" target="_new"><img src="images/button_jewish-national-fund.png" width="250" height="38" alt="jewish_heritage_day" /></a>
+			<a href="http://www.jnf.org/" target="_new"><button class="cov_button" style="width:250px;">Jewish National Fund</button></a>
 		</td>
 		<tr>
 		
@@ -120,7 +120,7 @@ else
 			<a href="http://www.nigunmusic.com/" taget="_new"><img src="images/nigun.png" width="75" height="75" alt="jewish_heritage_day" /></a>
 		</td>
 		<td valign="center">
-			<a href="http://www.nigunmusic.com/" taget="_new"><img src="images/button_nigun-music.png" width="250" height="38" alt="jewish_heritage_day" /></a>
+			<a href="http://www.nigunmusic.com/" taget="_new"><button class="cov_button" style="width:250px;">Nigun Music</button></a>
 		</td>
 		<!--
 		<td> <center> <p><a href="http://www.jewishheritageday.org/" target="_new"><img src="images/jhd.png" width="150" height="150" alt="jewish_heritage_day" /></a></p> </center> </td>

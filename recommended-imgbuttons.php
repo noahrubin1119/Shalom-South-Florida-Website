@@ -74,7 +74,7 @@ else
 		</td>
 		
 		<td valign="center">
-			<a href="http://www.jewishheritageday.org/" target="_new"><button class="cov_button" width="300">Jewish Heritage Day</button></a>
+			<a href="http://www.jewishheritageday.org/" target="_new"><img src="images/button_jewish-heritage-day2.png" width="250" height="38" alt="jewish_heritage_day" /></a>
 		</td>
 		<td></td>
 		<td align="center">

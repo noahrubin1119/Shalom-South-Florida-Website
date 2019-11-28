@@ -55,34 +55,56 @@ else
 				<button class="dropbtn"><img src="../images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
 					<div class="dropdown-content">
 					  <a href="../news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
-					  <a href="../reviews/" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
+					  <a href="reviews/" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
 					  <a href="../ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>
 					</div>
 			</div></li>
 
         </ul>
     </div>
-  <div class="left_content">
-    <div class="title">In The News</div>
-		
-		</br></br>
-		<a href="https://www.sun-sentinel.com/florida-jewish-journal/palm/fl-jj-boca-raton-shalom-south-florida-radio-move-20191127-20191121-wjyiu5slifdpxn2ac2lvuvlae4-story.html" target="_blank">
-		<div id="review">
-		
-			<h1>‘Shalom South Florida’ radio show’s move will ‘provide broader reach’</h1>
-			
-			<img src="../images/sun-sentinel.png" style="float: left;" width="50%"></img>
-			<img src="../images/roni.jpg" width="75%"></img>
-			<p>By SERGIO CARMONA</br>NOV 21, 2019</p>
-			<p>Local Jewish radio show “Shalom South Florida” will begin airing on 50,000-watt WWNN-1470AM every Sunday morning from 9:30-10:30 a.m. starting on Dec. 1. The show, which has aired throughout Palm Beach, Broward and Miami-Dade counties for more than three decades, is making this move after its current 5,000-watt station announced that it is ceasing operation.“Moving to a station...</p>
-		</div>
-		</a>
-		
-	</div>
-    
-    <div class="right_content">
+	
+	<div style="padding: 10px 10px 30px 30px;">
+    <h1>Nacas</h1>
+	</br>
+	<p>By Roni</br>Date</p>
+	
+		<p>Unconventional. That word sums up Chassidic music Singer Nathan
+Baldinger, who goes by the professional name, Nachas.</p>
+<p>The linear path of a musician in the Jewish music world was: prove to
+have a confident and consistent voice, perform at countless weddings
+and simchas, write (or buy) potentially marketable songs, hire a known
+producer to work on an album of ten to twelve compositions, and record
+the songs using a pool of studio musicians who appear on numerous
+albums featuring other singers.</p>
+<p>The next steps would be to release the CD through one of the few
+Jewish music producers in the New York area. Follow up the release
+with several concert performances, and then wait… Wait to see if the
+album can compete with the dozen or so best-selling Jewish music
+artists and sell in Judaica stores across the country. Or not sell.
+Nachas took no chances. He took matters into his own hands a couple
+of years ago with his first, self-titled album, and released one song
+at a time online and via iTunes, hoping to build a core of followers,
+one at a time, to propel him slowly to famedom.</p>
+<p>Now that he is better known, he capitalized on his developing fame and
+teamed up with the skilled DJ/producer Sruli Broncher to craft one of
+the most unconventional albums to be released in several years. With
+the help of a little (okay, more than a little) auto-tune, Nachas hits
+us with his follow-up album, the electric Emes. On this hot-off-the-
+press recording, Nachas combines Hip Hop, Rap and contemporary Jewish
+music. A compilation of 13 new tracks featuring compositions by Ari
+Goldwag, Mordechai Brezel, Doni Gross, Eli Scharf, Sruli Broncher
+and original songs by the Brooklyn-based Nachas himself.</p>
+<p>The mix of Chassidic and Israeli-style songs, the catchy lyrics and
+unconventional musical hooks, coupled with a new, fresh voice in
+Jewish music make this new album a must-have. Emes, climbing up the
+iTunes dance chart, is a unique album that would serve as the ideal
+
+summer road-trip companion. The kids will love the thumping beats,
+catchy tunes and contemporary feel.
+Follow Nachas on Twitter @NachasMusic and remember to make Jewish
+music an important part of your life!</p>
     	
-        <a href="http://wwnnradio.com" target="_new"><img src="../images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
+        <!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
       <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
@@ -95,13 +117,10 @@ else
 	</ol></p>
     
     
-  <center><img src="../images/shalomlogo.png" alt="shalom_logo" width="150" height="222" /></center>
-      <div id="menu2">
-      <div class="title">Connect with Us!</div>
-      
-        <a href="https://www.facebook.com/pages/Shalom-South-Florida/325922271798" target="_new"><img src="../images/facebook.png" width="50" height="50" alt="facebook" /></a><a href="https://twitter.com/shalomsouthFL" target="_new"><img src="../images/twitter.png" width="50" height="50" alt="twitter"  /></a> <br />
+  
       
     </div>
+</div>
 </div>
 <div id="footer">
     	<div class="footer_links">                      
