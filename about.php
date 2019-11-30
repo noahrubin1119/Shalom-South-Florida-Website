@@ -107,7 +107,7 @@ communities in the country.<br />
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      </p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>

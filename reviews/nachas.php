@@ -55,7 +55,7 @@ else
 				<button class="dropbtn"><img src="../images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
 					<div class="dropdown-content">
 					  <a href="../news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
-					  <a href="reviews/" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
+					  <a href="../reviews/" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
 					  <a href="../ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>
 					</div>
 			</div></li>
@@ -64,7 +64,7 @@ else
     </div>
 	
 	<div style="padding: 10px 10px 30px 30px;">
-    <h1>Nacas</h1>
+    <h1>Nachas Music Review</h1>
 	</br>
 	<p>By Roni</br>Date</p>
 	
