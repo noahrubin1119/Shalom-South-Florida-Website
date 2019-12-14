@@ -5,7 +5,7 @@
       type="image/png" 
       href="images/favicon.ico" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Shalom South Florida</title>
+<title>Shalom South Florida - Podcasts</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133425722-1"></script>
@@ -68,7 +68,7 @@ else
 
 </style>
     <table width="480" height="74" border="1" cellpadding = "2" style="background-color: #F1F3F4;">
-				 
+	
 				 
 				 
 <!--
@@ -1330,6 +1330,48 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>		   
+		   
+		   
+<td>November 24th, 2019<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/11-24-2019a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/11-24-2019a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>November 24th, 2019<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/11-24-2019b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/11-24-2019b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+
+<td>December 1st, 2019<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/12-01-2019a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/12-01-2019a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+
+<td>December 8th, 2019<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/12-08-2019a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/12-08-2019a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+
+		   		   
 		   
 		   </table>
 		   <br><br>

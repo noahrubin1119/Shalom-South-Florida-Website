@@ -7,7 +7,7 @@
 	  
 	  <meta name="viewport" content="width=device-width,initial scale=1">
 
-<title>Shalom South Florida - Coverage Map</title>
+<title>Shalom South Florida - Reviews</title>
 <link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
 </head>
 
