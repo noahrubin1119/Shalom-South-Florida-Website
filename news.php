@@ -56,7 +56,7 @@ else
 					<div class="dropdown-content">
 					  <a href="../news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
 					  <a href="../reviews/" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
-					  <a href="../ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>
+					  <a href="../ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad</a></br>
 					</div>
 			</div></li>
 
