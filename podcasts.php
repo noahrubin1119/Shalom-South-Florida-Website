@@ -1379,6 +1379,16 @@ else
              <td><a href="podcasts/12-15-2019.mp3" download>
                <input class="button" type="submit" value="Download" />
              </a></td>
+           </tr>		  
+
+<td>December 22nd, 2019<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/12-22-2019.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/12-22-2019.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
            </tr>		   		   
 		   
 		   </table>
