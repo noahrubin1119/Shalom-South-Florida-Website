@@ -31,7 +31,7 @@ if( ($d=="Sun") && ($h==9) && ($m>29) )
 elseif( ($d=="Sun") && ($h==10) && ($m>=0) && (m< 59) )
 	echo '<img src="images/onair.png" alt="" title="" border="0"/>';
 else
-	echo '<img src="images/offair.png" alt="" title="" border="0"/>';
+	echo '</br></br><br><img src="images/offair.png" width="150px" alt="offair" title="" border="0" />';
 
 
 ?>        
@@ -107,7 +107,7 @@ communities in the country.<br />
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<div class="title">Ways to Listen to Shalom South Florida:</div>
-      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>

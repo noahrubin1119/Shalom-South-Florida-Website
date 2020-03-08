@@ -41,7 +41,7 @@ if( ($d=="Sun") && ($h==9) && ($m>29) )
 elseif( ($d=="Sun") && ($h==10) && ($m<29) )
 	echo '<img src="images/onair.png" alt="onair" title="" border="0" />';
 else
-	echo '<img src="images/offair.png" alt="offair" title="" border="0" />';
+	echo '</br></br><br><img src="images/offair.png" width="150px" alt="offair" title="" border="0" />';
 
 
 ?>        
@@ -79,7 +79,7 @@ Roni quickly became Florida&#39;s Jewish radio &quot;maven.&quot; Roni has an M.
 Mass Communication.</p>
 
 <div class="title">Ways to Listen to Shalom South Florida:</div>
-      <p>Every Sunday from 9:30-10:30 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
+      <p>Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
