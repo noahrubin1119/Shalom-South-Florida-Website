@@ -51,6 +51,7 @@ else
             <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
+			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></a></u></li>
 <li></li>
         </ul>
     </div>

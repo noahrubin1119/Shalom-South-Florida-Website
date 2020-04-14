@@ -60,6 +60,7 @@ else
             <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
+			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
     </ul>
   </div>
   <div class="left_content">
@@ -1400,7 +1401,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>	
--->
+
 <td>January 5th, 2020<br />
                9:30-10:30</td>
             <td>
@@ -1476,7 +1477,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>			
-		   
+ 
 <td>February 9th, 2020<br />
                9:30-10:30</td>
             <td>
@@ -1534,7 +1535,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>		
-		   
+	-->	   
 <td>March 1st, 2020<br />
                9:30-10:30</td>
             <td>
@@ -1573,7 +1574,101 @@ else
              </a></td>
            </tr>		
 
+<td>March 15th, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-15-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-15-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>March 15th, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-15-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-15-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		
 				   
+<td>March 22nd, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-22-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-22-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>March 22nd, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-22-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-22-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		
+
+<td>March 29th, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-29-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-29-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>March 29th, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-29-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-29-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>				   
+		   
+<td>April 5th, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-05-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-05-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>April 5th, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-05-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-05-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>				   
+		   
+<td>April 12th, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-12-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-12-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>April 12th, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-12-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-12-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>				   
+		   
 		   </table>
 		   <br><br>
 		   
