@@ -260,6 +260,10 @@ width:345px;
 float:left;
 padding:10px 0 30px 30px;
 }
+@media all and (max-width: 450px) {
+    .right_content { display: none; }
+	.left_content { width: 100%; }
+}
 img.listen_live{
 padding:20px 0 0 0px;
 }

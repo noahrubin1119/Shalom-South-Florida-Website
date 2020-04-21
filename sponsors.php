@@ -97,9 +97,11 @@ else
 
 
 	
-<th colspan = "4"> <div align = "center"> <table style="border: none;"> <td style="padding:0 10px 0 0px";> 
+<th colspan = "4"> <div align = "center"> <table style="border: none;"> 
+<td> <center> <p><a href="http://www.mazaltovcare.com/" target="new"><img src="images/mazaltov.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
+<td style="padding:0px 10px 0 10px";> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
-<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> </table> </div> </th>
+<td width="200px" style="float: left;"> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> </table> </div> </th>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
