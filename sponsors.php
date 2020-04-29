@@ -77,7 +77,7 @@ else
    
 <td> <center> <p><a href="http://www.herzogwine.com" target="_new"><img src="images/herzog.jpg" width="200" height="60" alt="herzog" /></a></p> </center> </td>
 <td> <center> <p><a href="http://browardcenter.org/" target="_new"><img src="images/browardctr.png" width="200" height="55" alt="browardctr" /></a></p> </center> </td>
-<td> <center> <p><a href="https://www.imperial-living.com/" target="_new"><img src="images/imperial.png" width="200" height="75" alt="imperial-living.com" /></a></p> </center> </td>
+<td> <center> <p><a href="http://www.mazaltovcare.com/" target="new"><img src="images/mazaltov.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
 
 <td> <center> <p><a href="http://www.nbn.org.il" target="_new"><img src="images/nbn.png" width="200" height="75" alt="nbn" /></a></p> </center> </td>
 </center> </td>
@@ -97,11 +97,9 @@ else
 
 
 	
-<th colspan = "4"> <div align = "center"> <table style="border: none;"> 
-<td> <center> <p><a href="http://www.mazaltovcare.com/" target="new"><img src="images/mazaltov.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
-<td style="padding:0px 10px 0 10px";> 
+<th colspan = "4"> <div align = "center"> <table style="border: none;"> <td style="padding:0 10px 0 0px";> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
-<td width="200px" style="float: left;"> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> </table> </div> </th>
+<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> </table> </div> </th>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
