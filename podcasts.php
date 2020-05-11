@@ -1704,7 +1704,45 @@ else
              <td><a href="podcasts/04-26-2020b.mp3" download>
                <input class="button" type="submit" value="Download" />
              </a></td>
-           </tr>			   
+           </tr>			 
+
+<td>May 3rd, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/05-03-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/05-03-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>May 3rd, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/05-03-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/05-03-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>			 		   
+		   
+<td>May 10th, 2020<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/05-10-2020a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/05-10-2020a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>		   		   
+	<td>May 10th, 2020<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/05-10-2020b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/05-10-2020b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>			 		   
 		   
 		   </table>
 		   <br><br>
