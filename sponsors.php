@@ -57,11 +57,15 @@ else
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
     </ul>
   </div>
-  
+  <style> .equal-width td { width: 25%; 
+	border:none;
+	justify-content: center;
+  } </style>
+
   <div align="center">
   <div class="title"></br>We Thank Our Sponsors</div>
   <CENTER><p>We are so thankful for the support of our sponsors. Click on a logo to visit their website.</p></CENTER>
-    <CENTER><table width="502" height="40" cellpadding="5px 10px 0px 10px" style="border: none;">
+    <CENTER><table width="502" height="40" cellpadding="5px 10px 0px 10px" style="border: none;" class="equal-width">
 	<style>
 		td{
 			border: none;
@@ -84,7 +88,8 @@ else
 			
 			</tr>
 
-<td> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="100" height="100" alt="marlins" /></a><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="100" height="100" alt="marlins" /></a></p> </center> </td>
+<!--<td> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="100" height="100" alt="marlins" /></a><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="100" height="100" alt="marlins" /></a></p> </center> </td>-->
+<td> <center> <p><a href="https://www.prestigedetox.com/" target="_new"><img src="images/prestige.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
 <td> <center> <p><a href="http://www.crayola.com/" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.winndixie.com/" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="50" /></a></p> </center> </td>
@@ -94,12 +99,20 @@ else
 			
 
 
+<td style="width:500px;"> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="150" height="150" alt="marlins" /></a></p> </center> </td>
 
 
-	
-<th colspan = "4"> <div align = "center"> <table style="border: none;"> <td style="padding:0 10px 0 0px";> 
+<td> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
-<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> </table> </div> </th>
+<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
+
+
+<td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
+</tr>
+<!--
+<td colspan = "4"> <div align = "center"> <table style="border: none;"> <td style="padding:0 10px 0 0px";> 
+     <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
+<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td> --></table> </div> </td>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
