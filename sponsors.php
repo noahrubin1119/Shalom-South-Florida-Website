@@ -110,8 +110,10 @@ else
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
 
-<td colspan = "4"> 
+<td colspan = "2"> 
  <center><a href="https://www.jewishnationalcharity.org/" target="_new"><img src="images/jnc.png" width="175" height="115" alt="wall" /></a> </center>  </td>
+ <td colspan = "2"> 
+ <center><a href="http://www.neshamajfs.com" target="_new"><img src="images/neshama.png" width="125" height="125" alt="neshama" /></a> </center>  </td>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
