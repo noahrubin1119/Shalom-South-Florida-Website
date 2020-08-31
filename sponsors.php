@@ -92,7 +92,7 @@ else
 <td> <center> <p><a href="https://www.prestigedetox.com/" target="_new"><img src="images/prestige.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
 <td> <center> <p><a href="https://www.crayolaexperience.com/orlando" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
-<td> <center> <p><a href="http://www.winndixie.com/" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="50" /></a></p> </center> </td>
+<td> <center> <p><a href="https://www.winndixie.com/kosher" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="100" /></a></p> </center> </td>
 
 
 			</tr>
