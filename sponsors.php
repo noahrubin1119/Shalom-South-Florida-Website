@@ -89,7 +89,7 @@ else
 			</tr>
 
 <!--<td> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="100" height="100" alt="marlins" /></a><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="100" height="100" alt="marlins" /></a></p> </center> </td>-->
-<td> <center> <p><a href="https://www.prestigedetox.com/" target="_new"><img src="images/prestige.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
+<td> <center> <p><a href="http://www.neshamajfs.com" target="_new"><img src="images/neshama.png" width="125" height="125" alt="neshama" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
 <td> <center> <p><a href="https://www.crayolaexperience.com/orlando" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 <td> <center> <p><a href="https://www.winndixie.com/kosher" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="100" /></a></p> </center> </td>
@@ -109,11 +109,9 @@ else
 
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
+<td colspan = "4"> 
+ <center><a href="https://prestigeestatebuyers.com/" target="_new"><img src="images/PrestigeEstate.PNG" width="300" height="90" alt="wall" /></a> </center>  </td>
 
-<td colspan = "2"> 
- <center><a href="https://www.jewishnationalcharity.org/" target="_new"><img src="images/jnc.png" width="175" height="115" alt="wall" /></a> </center>  </td>
- <td colspan = "2"> 
- <center><a href="http://www.neshamajfs.com" target="_new"><img src="images/neshama.png" width="125" height="125" alt="neshama" /></a> </center>  </td>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
