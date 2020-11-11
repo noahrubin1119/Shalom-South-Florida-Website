@@ -110,7 +110,7 @@ else
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
 <td colspan = "4"> 
- <center><a href="https://prestigeestatebuyers.com/" target="_new"><img src="images/PrestigeEstate.PNG" width="300" height="90" alt="wall" /></a> </center>  </td>
+ <center><a href="https://prestigeestatebuyers.com/" target="_new"><img src="images/PrestigeEstate.PNG" width="200" height="60" alt="wall" /></a> </center>  </td>
 
 			</tr>
 			 		 	 	 	 	 	 	                 
