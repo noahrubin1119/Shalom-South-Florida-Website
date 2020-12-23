@@ -217,6 +217,16 @@ float:left;text-decoration:none;background:url(images/menu_bullet.gif) no-repeat
   display: block;
 }
 
+    #content-desktop {display: none;}
+    #content-mobile {display: block;}
+
+    @media screen and (min-width: 450px) {
+
+    #content-desktop {display: block;}
+    #content-mobile {display: none;}
+
+    }
+
 
 /*---------------------Testing Menu------------------
 #testing_menu{
@@ -247,7 +257,9 @@ float:left;text-decoration:none;padding:0px 10px 0 30px; margin:0px;color:#fff;t
 float:left;text-decoration:none;background:url(images/menu_bullet.gif) no-repeat left;padding:0px 10px 0 30px;color: #fff;margin:0px;
 }
 /*----------------------------------------------------*/
-
+.mobile-menu-class ul li {
+ -webkit-transform: translateZ(0);
+}
 
 .left_content{
 	width: 480px;

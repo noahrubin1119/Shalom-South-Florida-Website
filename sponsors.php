@@ -9,6 +9,8 @@
 
 <title>Shalom South Florida - Sponsors</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<meta name="viewport" content="width=device-width">
+
 </head>
 
 <body>
@@ -51,7 +53,7 @@ else
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><a href="recommended.php" title="">Recommended Links</a></li>
+            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
@@ -110,7 +112,7 @@ else
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
 <td colspan = "4"> 
- <center><a href="https://prestigeestatebuyers.com/" target="_new"><img src="images/PrestigeEstate.PNG" width="200" height="60" alt="wall" /></a> </center>  </td>
+ <center><a href="https://www.sunshinestatekosher.org//" target="_new"><img src="images/sunshinestatekosher.webp" width="150" height="80" alt="sunshinestatekosher" /></a> </center>  </td>
 
 			</tr>
 			 		 	 	 	 	 	 	                 

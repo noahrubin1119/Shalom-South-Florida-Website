@@ -9,6 +9,8 @@
 
 <title>Shalom South Florida - Coverage Map</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<meta name="viewport" content="width=device-width">
+
 </head>
 
 <body>
@@ -49,7 +51,7 @@ else
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><a href="recommended.php" title="">Recommended Links</a></li>
+            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
