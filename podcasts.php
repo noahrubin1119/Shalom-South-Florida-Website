@@ -50,9 +50,10 @@ else
 
         </div>
     </div>
-    
+    </div>
   <div id="menu">
-    <ul>                                                                                                                      
+  <div class="centeredmenu">
+    <ul> 	
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
@@ -60,9 +61,13 @@ else
             <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div><div id="content-mobile"></div></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
-			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
-    </ul>
+			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
+    
+	</ul>
+</div>	
   </div>
+  <div id="main_container">
+
   <div class="left_content">
     <p>Missed a show? Now you can listen to or download past shows right here!</p>
 	<style>
@@ -2140,8 +2145,175 @@ else
            </tr>
 
 -->
+<td>April 18th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-18-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-18-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <td>April 18th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-18-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-18-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>April 11th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-11-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-11-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <td>April 11th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-11-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-11-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 28th<br />
+               April 4th, 2021</td>
+            <td>
+             No show in observance of Passover.</td>
+           </tr>
+<td>March 21st, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-21-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-21-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 21st, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-21-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-21-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 14th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-14-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-14-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 14th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-14-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-14-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 7th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-07-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-07-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>March 7th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/03-07-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/03-07-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 28th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-28-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-28-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 28th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-28-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-28-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 21st, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-21-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-21-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 21st, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-21-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-21-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 14th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-14-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-14-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>February 14th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-14-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-14-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
 
-
+<td>February 7th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/02-07-2021.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/02-07-2021.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <!--
+<td>January 31st, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/01-31-2021.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/01-31-2021.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
 <td>January 24th, 2021<br />
                9:30-10:30</td>
             <td>
@@ -2179,7 +2351,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>
-
+<!--
 <td>December 27th, 2020<br />
                9:30-10:30</td>
             <td>
@@ -2258,7 +2430,7 @@ else
              </a></td>
            </tr>
 
-
+<!--
 
 <td>November 29th, 2020<br />
                9:30-10:30</td>
@@ -2345,7 +2517,10 @@ else
              <td><a href="podcasts/11-01-2020a.mp3" download>
                <input class="button" type="submit" value="Download" />
              </a></td>
+			 
            </tr>	
+		   -->
+		   
 		   
 		   </table>
 		   <br><br>
@@ -2359,7 +2534,8 @@ else
              </a></td>
            </tr>
 </table>-->
-				 		 
+<p>For older archived shows email <a href="mailto:Roni@shalomsouthflorida.com">roni@shalomsouthflorida.com</a> or check out <a href="https://www.shalomsouthflorida.com/podcasts/" target="blank">our archives</a></p>
+
 <p>&nbsp;</p>
     <p>&nbsp;</p>
     <div class="photo_gallery">
@@ -2380,7 +2556,7 @@ else
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
+		<li>N. Broward &amp; South Palm Beach – 95.3 &amp; 96.9 FM (Check the <a href="../coverage.php">Coverage Map</a>)</li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
 	</ol></p>

@@ -47,18 +47,23 @@ else
     
 	
 	
+  </div>
   <div id="menu">
-    <ul>                                                                                                                      
+  <div class="centeredmenu">
+    <ul> 	
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div></li>
+            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div><div id="content-mobile"></div></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
-			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></u></a></li>
-    </ul>
+			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
+    
+	</ul>
+</div>	
   </div>
+  <div id="main_container">
   <style> .equal-width td { width: 25%; 
 	border:none;
 	justify-content: center;
@@ -67,7 +72,7 @@ else
   <div align="center">
   <div class="title"></br>We Thank Our Sponsors</div>
   <CENTER><p>We are so thankful for the support of our sponsors. Click on a logo to visit their website.</p></CENTER>
-    <CENTER><table width="502" height="40" cellpadding="5px 10px 0px 10px" style="border: none;" class="equal-width">
+    <CENTER><table width="502" height="40" cellpadding="7px 10px 0px 10px" style="border: none;" class="equal-width">
 	<style>
 		td{
 			border: none;
@@ -75,7 +80,7 @@ else
 	</style>
 
 <td> <center> <p><a href="http://www.alleprocessing.com/store/pc/home.asp" target="_new"><img src="images/mealmart1.png" width="200" height="50" alt="mealmart" /></a></p> </center> </td>
-<td> <center> <p><a href="http://www.standwithus.com/learn" target="_new"><img src="images/SWU High Res Plain_JPG.webp" width="200" height="55" alt="standwithus" /></a></p> </center> </td>
+<td> <center> <p><a href="http://www.standwithus.com" target="_new"><img src="images/SWU High Res Plain_JPG.webp" width="200" height="55" alt="standwithus" /></a></p> </center> </td>
 <td> <center> <p><a href="http://elal.com" target="_new"><img src="images/elal.png" width="200" height="50" alt="elal" /></a></p> </center> </td>
 <td> <center> <p><a href="https://www.publix.com/" target="new"><img src="images/publix.png" width="200" height="55" alt=""/></a></p> </center> </td>
 		   
@@ -83,7 +88,7 @@ else
    
 <td> <center> <p><a href="http://www.herzogwine.com" target="_new"><img src="images/herzog.jpg" width="200" height="60" alt="herzog" /></a></p> </center> </td>
 <td> <center> <p><a href="http://browardcenter.org/" target="_new"><img src="images/browardctr.png" width="200" height="55" alt="browardctr" /></a></p> </center> </td>
-<td> <center> <p><a href="http://www.mazaltovcare.com/" target="new"><img src="images/mazaltov.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
+<td> <center> <p><a href="http://www.kosherwine.com/" target="new"><img src="images/Kosher_Wine_Logo_2x.webp" width="200" height="50" alt="kosherwine.com"/></a></p> </center> </td>
 
 <td> <center> <p><a href="http://www.nbn.org.il" target="_new"><img src="images/nbn.png" width="200" height="75" alt="nbn" /></a></p> </center> </td>
 </center> </td>
@@ -106,13 +111,13 @@ else
 
 <td> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
-<td> <center> <p><a href="http://www.walltowallnuts.com/" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
+<td> <center> <p><a href="https://www.facebook.com/Wall-To-Wall-Nuts-193096840711980" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
 
 
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
-<td colspan = "4"> 
- <center><a href="https://www.sunshinestatekosher.org//" target="_new"><img src="images/sunshinestatekosher.webp" width="150" height="80" alt="sunshinestatekosher" /></a> </center>  </td>
+<!--<td colspan = "4"> 
+ <center><a href="https://www.sunshinestatekosher.org//" target="_new"><img src="images/sunshinestatekosher.webp" width="150" height="80" alt="sunshinestatekosher" /></a> </center>  </td>-->
 
 			</tr>
 			 		 	 	 	 	 	 	                 

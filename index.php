@@ -52,8 +52,9 @@ else
         
         </div>
     </div>
-    
+ </div>
   <div id="menu">
+  <div class="centeredmenu">
     <ul>                                                                                                                      
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
@@ -62,10 +63,12 @@ else
             <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
-			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>DONATE</strong></a></u></li>
+			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></a></u></li>
 <li></li>
     </ul>
   </div>
+  </div>
+  <div id="main_container">
   <div class="left_content">
     <div class="title">Welcome to Shalom South Florida!</div>
 	<p>
@@ -85,7 +88,7 @@ Mass Communication.</p>
 	  
 	  <ol>
 		<li>In South Florida: WWNN 1470 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 95.3, 96.9, &amp; 103.9 FM (Check the <a href="../coverage.php">Coverage Map</a></li>
+		<li>N. Broward &amp; South Palm Beach – 95.3 &amp; 96.9 FM (Check the <a href="../coverage.php">Coverage Map</a>)</li>
 		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
 		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
 	</ol></p>
