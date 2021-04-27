@@ -23,6 +23,7 @@
 <div id="main_container">
 
 	<div id="header">
+	<div id="content-desktop">
     	<div id="logo"><img src="images/new_logo.png" alt="" width="651" height="145" border="0" align="left" title="" /></div>
         <div class="on_air">
         
@@ -48,24 +49,43 @@ else
         
         
 
-        </div>
+        </div></div><div id="content-mobile"><div id="logo"><img src="images/new_logo.png" alt="" width="100%" border="0" align="left" title="" /></div></div>
     </div>
+	
     </div>
   <div id="menu">
   <div class="centeredmenu">
     <ul> 	
+			<li><div id="content-mobile"><div class="dropdown" style="float:left;">
+				<button class="dropbtn"><img src="images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
+					<div class="dropdown-content">
+					  <a href="index.php" title="">Home</a><br>
+						<a href="about.php" title="">About Us</a><br>
+						<a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a><br>
+						<a href="coverage.php" title="">Coverage Map</a><br>
+						<a href="recommended.php" title="">Recommended Links</a><br>
+						<a href="contact.php" title="">Contact Us</a><br>
+						<a href="podcasts.php"><u><strong>Podcasts</strong></u></a><br>
+						<a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a><br>
+					  <!--<a href="news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
+					  <a href="reviews.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
+					  <a href="ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>-->
+					</div>
+			</div></div><div id="content-desktop"></div></li>
+			<div id="content-desktop">
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div><div id="content-mobile"></div></li>
+            <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
-    
+			</div>
 	</ul>
 </div>	
   </div>
+
   <div id="main_container">
 
   <div class="left_content">
@@ -73,7 +93,7 @@ else
 	<style>
 
 </style>
-    <table width="480" height="74" border="1" cellpadding = "2" style="background-color: #F1F3F4;">
+    <table width="100%" height="74" border="1" cellpadding = "2" style="background-color: #F1F3F4;">
 	
 				 
 				 
@@ -2145,6 +2165,43 @@ else
            </tr>
 
 -->
+<td>April 25th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-25-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-25-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <td>April 25th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-25-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-25-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+<td>April 18th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-18-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-18-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <td>April 18th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/04-18-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/04-18-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+
 <td>April 18th, 2021<br />
                9:30-10:30</td>
             <td>
@@ -2543,11 +2600,8 @@ else
         <div class="gallery_thumbs"></div>
         <div class="right_nav"><span class="footer_links"><a href="http://validator.w3.org/check?uri=referer"></a></span></div> 
     </div>
-     
-    
-  </div>
-    
-  <div class="right_content">
+	
+    <div id="content-mobile"><a href="recommended.php" title="">
     	
         <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
@@ -2571,12 +2625,42 @@ else
     
     
     
+  </div><div id="content-desktop"></div> 
+    
+  </div>
+    
+  <div class="right_content"><div id="content-desktop"><a href="recommended.php" title="">
+    	
+        <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
+    
+		<div class="title">Ways to Listen to Shalom South Florida:</div>
+      <p>Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
+	  
+	  <ol>
+		<li>In South Florida: WWNN 1470 AM</li>
+		<li>N. Broward &amp; South Palm Beach – 95.3 &amp; 96.9 FM (Check the <a href="../coverage.php">Coverage Map</a>)</li>
+		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
+		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
+	</ol></p>
+
+      <div id="menu2">
+        <div class="title">Connect with Us!</div>
+      
+        <a href="https://www.facebook.com/pages/Shalom-South-Florida/325922271798" target="_new"><img src="images/facebook.png" width="50" height="50" alt="facebook" /></a><a href="https://twitter.com/shalomsouthFL" target="_new"><img src="images/twitter.png" width="50" height="50" alt="twitter"  /></a> <br />
+      </div>
+
+    <!--Start of Calendar Event--><!--End of Calendar Event-->
+    
+    
+    
+  </div><div id="content-mobile"></div>
   </div>
     
 
 
      <div id="footer">
-    	<div class="footer_links">                      
+	 
+    	<div class="footer_links" style="width:100%;">                      
         <a href="index.php">home</a>
         <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a>
        <p>&nbsp;</p></div>
