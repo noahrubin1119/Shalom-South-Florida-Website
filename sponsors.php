@@ -51,17 +51,35 @@ else
   <div id="menu">
   <div class="centeredmenu">
     <ul> 	
+			<li><div id="content-mobile"><div class="dropdown" style="float:left;">
+				<button class="dropbtn"><img src="images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
+					<div class="dropdown-content">
+					  <a href="index.php" title="">Home</a><br>
+						<a href="about.php" title="">About Us</a><br>
+						<a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a><br>
+						<a href="coverage.php" title="">Coverage Map</a><br>
+						<a href="recommended.php" title="">Recommended Links</a><br>
+						<a href="contact.php" title="">Contact Us</a><br>
+						<a href="podcasts.php"><u><strong>Podcasts</strong></u></a><br>
+						<a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a><br>
+					  <!--<a href="news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
+					  <a href="reviews.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
+					  <a href="ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>-->
+					</div>
+			</div></div><div id="content-desktop"></div></li>
+			<div id="content-desktop">
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div><div id="content-mobile"></div></li>
+            <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
-    
+			</div>
 	</ul>
 </div>	
+  </div>
   </div>
   <div id="main_container">
   <style> .equal-width td { width: 25%; 
@@ -81,14 +99,15 @@ else
 
 <td> <center> <p><a href="http://www.alleprocessing.com/store/pc/home.asp" target="_new"><img src="images/mealmart1.png" width="200" height="50" alt="mealmart" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.standwithus.com" target="_new"><img src="images/SWU High Res Plain_JPG.webp" width="200" height="55" alt="standwithus" /></a></p> </center> </td>
-<td> <center> <p><a href="http://elal.com" target="_new"><img src="images/elal.png" width="200" height="50" alt="elal" /></a></p> </center> </td>
+<td> <center> <p><a href="https://www.aa.com/homePage.do" target="_new"><img src="images/AA.png" width="200" height="100" alt="AA" /></a></p> </center> </td>
 <td> <center> <p><a href="https://www.publix.com/" target="new"><img src="images/publix.png" width="200" height="55" alt=""/></a></p> </center> </td>
 		   
 		   </tr>
    
 <td> <center> <p><a href="http://www.herzogwine.com" target="_new"><img src="images/herzog.jpg" width="200" height="60" alt="herzog" /></a></p> </center> </td>
 <td> <center> <p><a href="http://browardcenter.org/" target="_new"><img src="images/browardctr.png" width="200" height="55" alt="browardctr" /></a></p> </center> </td>
-<td> <center> <p><a href="http://www.kosherwine.com/" target="new"><img src="images/Kosher_Wine_Logo_2x.webp" width="200" height="50" alt="kosherwine.com"/></a></p> </center> </td>
+<td> <center> <p><a href="http://elal.com" target="_new"><img src="images/elal.png" width="200" height="50" alt="elal" /></a></p> </center> </td>
+
 
 <td> <center> <p><a href="http://www.nbn.org.il" target="_new"><img src="images/nbn.png" width="200" height="75" alt="nbn" /></a></p> </center> </td>
 </center> </td>
@@ -98,7 +117,9 @@ else
 <!--<td> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="100" height="100" alt="marlins" /></a><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="100" height="100" alt="marlins" /></a></p> </center> </td>-->
 <td> <center> <p><a href="http://www.neshamajfs.com" target="_new"><img src="images/neshama.png" width="125" height="125" alt="neshama" /></a></p> </center> </td>
 <td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
-<td> <center> <p><a href="https://www.crayolaexperience.com/orlando" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
+
+<td> <center> <p><a href="http://www.kosherwine.com/" target="new"><img src="images/Kosher_Wine_Logo_2x.webp" width="200" height="50" alt="kosherwine.com"/></a></p> </center> </td>
+
 <td> <center> <p><a href="https://www.winndixie.com/kosher" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="100" /></a></p> </center> </td>
 
 
@@ -111,14 +132,14 @@ else
 
 <td> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
-<td> <center> <p><a href="https://www.facebook.com/Wall-To-Wall-Nuts-193096840711980" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
 
+<td> <center> <p><a href="https://www.crayolaexperience.com/orlando" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 
 <td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
 <!--<td colspan = "4"> 
  <center><a href="https://www.sunshinestatekosher.org//" target="_new"><img src="images/sunshinestatekosher.webp" width="150" height="80" alt="sunshinestatekosher" /></a> </center>  </td>-->
-
+<td> <center> <p><a href="https://www.facebook.com/Wall-To-Wall-Nuts-193096840711980" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
 			</tr>
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>

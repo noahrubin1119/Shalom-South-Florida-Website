@@ -48,15 +48,32 @@ else
   <div id="menu">
   <div class="centeredmenu">
     <ul> 	
+			<li><div id="content-mobile"><div class="dropdown" style="float:left;">
+				<button class="dropbtn"><img src="images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
+					<div class="dropdown-content">
+					  <a href="index.php" title="">Home</a><br>
+						<a href="about.php" title="">About Us</a><br>
+						<a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a><br>
+						<a href="coverage.php" title="">Coverage Map</a><br>
+						<a href="recommended.php" title="">Recommended Links</a><br>
+						<a href="contact.php" title="">Contact Us</a><br>
+						<a href="podcasts.php"><u><strong>Podcasts</strong></u></a><br>
+						<a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a><br>
+					  <!--<a href="news.php" title="" style="z-index: 1; padding:0px 30px 0 30px;">In The News</a></br>
+					  <a href="reviews.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Jewish Music Reviews</a></br>
+					  <a href="ad.php" title="" style="z-index: 1; padding:0px 10px 0 30px;">Printable Ad<a></br>-->
+					</div>
+			</div></div><div id="content-desktop"></div></li>
+			<div id="content-desktop">
             <li><a href="index.php" title="">Home</a></li>
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><div id="content-desktop"><a href="recommended.php" title="">Recommended Links</a></div><div id="content-mobile"></div></li>
+            <li><a href="recommended.php" title="">Recommended Links</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
-    
+			</div>
 	</ul>
 </div>	
   </div>

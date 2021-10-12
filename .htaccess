@@ -5,3 +5,4 @@ RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://www.shalomsouthflorida.com/$1 [L,R=301]
 RewriteBase /
 RewriteRule ^about/?$ about.php
+RewriteRule ^podcasts/?$ podcasts.php
