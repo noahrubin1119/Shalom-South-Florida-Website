@@ -2165,6 +2165,24 @@ else
            </tr>
 
 -->
+<td>October 10th, 2021<br />
+               9:30-10:30</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/10-10-2021a.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/10-10-2021a.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
+		   <td>October 10th, 2021<br />
+               10:30-11:00</td>
+            <td>
+             <audio controls preload="none" controlsList="nofullscreen nodownload noremoteplayback"><source src="podcasts/10-10-2021b.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+             </td>
+             <td><a href="podcasts/10-10-2021b.mp3" download>
+               <input class="button" type="submit" value="Download" />
+             </a></td>
+           </tr>
 <td>October 3rd, 2021<br />
                9:30-10:30</td>
             <td>
@@ -2341,6 +2359,7 @@ else
                <input class="button" type="submit" value="Download" />
              </a></td>
            </tr>
+		   <!--
 <td>July 25th, 2021<br />
                9:30-10:30</td>
             <td>

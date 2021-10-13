@@ -131,13 +131,13 @@ else
 			<a href="http://www.jewishpress.com/" target="_new"><button class="cov_button" style="width:250px;">The Jewish Press</button></a>
 		</td>
 		<td></td>
-		<td>
+		<!--<td>
 			<a href="http://www.jnf.org/" target="_new"><img src="images/jnf-new.png" width="75" alt="jewish_heritage_day" /></a>
 		</td>
 		<td valign="center">
 			<a href="http://www.jnf.org/" target="_new"><button class="cov_button" style="width:250px;">Jewish National Fund</button></a>
 		</td>
-		<tr>
+		<tr>-->
 		
 		<td>
 			<a href="http://www.nigunmusic.com/" taget="_new"><img src="images/nigun.png" width="75" height="75" alt="jewish_heritage_day" /></a>
