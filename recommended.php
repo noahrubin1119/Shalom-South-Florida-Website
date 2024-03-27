@@ -8,6 +8,34 @@
 <meta name="viewport" content="width=device-width,initial scale=1">
 
 <title>Shalom South Florida - Recommended</title>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '220786502961938');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=220786502961938&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 1006472116 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1006472116"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1006472116');
+</script>
 <link rel="stylesheet" type="text/css" href="style2.css" media="screen" />
 </head>
 
@@ -177,7 +205,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
+        <a href="https://player.listenlive.co/63891" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
         
     <p>&nbsp;</p></div>
         
