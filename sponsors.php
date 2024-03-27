@@ -10,7 +10,33 @@
 <title>Shalom South Florida - Sponsors</title>
 <link rel="stylesheet" type="text/css" href="style2.css" media="screen" />
 <meta name="viewport" content="width=device-width">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '220786502961938');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=220786502961938&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
+<!-- Global site tag (gtag.js) - Google Ads: 1006472116 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1006472116"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1006472116');
+</script>
 </head>
 
 <body>
@@ -58,7 +84,7 @@ else
 						<a href="about.php" title="">About Us</a><br>
 						<a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a><br>
 						<a href="coverage.php" title="">Coverage Map</a><br>
-						<a href="recommended.php" title="">Recommended Links</a><br>
+						<a href="images/SSF_FLYER.pdf" title="">Printable Flyer</a><br>
 						<a href="contact.php" title="">Contact Us</a><br>
 						<a href="podcasts.php"><u><strong>Podcasts</strong></u></a><br>
 						<a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a><br>
@@ -72,7 +98,7 @@ else
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><a href="recommended.php" title="">Recommended Links</a></li>
+            <li><a href="images/SSF_FLYER.pdf" title="">Printable Flyer</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
@@ -116,31 +142,41 @@ else
 
 <!--<td> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="100" height="100" alt="marlins" /></a><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="100" height="100" alt="marlins" /></a></p> </center> </td>-->
 <td> <center> <p><a href="http://www.neshamajfs.com" target="_new"><img src="images/neshama.png" width="125" height="125" alt="neshama" /></a></p> </center> </td>
-<td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>
+<!--<td> <center> <p><a href="http://www.jnf.org/" target="new"><img src="images/jnf-new.png" width="200" height="100" alt="jnf"/></a></p> </center> </td>-->
 
-<td> <center> <p><a href="http://www.kosherwine.com/" target="new"><img src="images/Kosher_Wine_Logo_2x.webp" width="200" height="50" alt="kosherwine.com"/></a></p> </center> </td>
+<td> <center> <p><a href="https://byrna.com/" target="_new"><img src="images/Byrna logo.jpg" width="200" height="75" alt="byrna" /></a></p> </center> </td>
+<!--<td> <center> <p><a href="https://koshertravelers.com/listings/pesach-2023-the-5-elysium-resort-spa-hotel-rhodes-greek-isles" target="new"><img src="images/kosherwine.jpg" width="150" height="100" alt="kosherwine.com"/></a></p> </center> </td>
+-->
+<td> <center> <p><a href="https://www.facebook.com/Wall-To-Wall-Nuts-193096840711980" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
 
-<td> <center> <p><a href="https://www.winndixie.com/kosher" target="_new"><img src="images/winn.png" alt="winn_dixie"  width="200" height="100" /></a></p> </center> </td>
+<td> <center> <p><a href="https://www.jewishpress.com/" target="_new"><img src="images/jpress.jpg" alt="jpress"  width="200" height="75" /></a></p> </center> </td>
 
 
 			</tr>
 			
 
 
-<td style="width:500px;"> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="150" height="150" alt="marlins" /></a></p> </center> </td>
-
-
+<!--<td style="width:500px;"> <center> <p><a href="http://marlins.com" target="_new"><img src="images/marlins.png" width="150" height="150" alt="marlins" /></a></p> </center> </td> -->
 <td> 
      <center> <p><a href="http://www.kravis.org/" target="_new"><img src="images/kravis.gif" width="125" height="175" alt="kravis" /></a></p> </center> </td> 
 
 <td> <center> <p><a href="https://www.crayolaexperience.com/orlando" target="_new"><img src="images/crayola.png" width="175" height="100" alt="crayola" align = "center" /></a></p> </center> </td>
 
-<td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
+<td> <center> <p><a href="https://www.greatamericankosherbbqandjewishfestival.com/s-projects-basic" target="_new"><img src="images/bbq.PNG" width="175" height="175" alt="bbq" align = "center" /></a></p> </center> </td>
+<td> <center> <p><a href="https://koshercentral.com/" target="_new"><img src="images/KC.PNG" width="200" height="175" alt="KC" align = "center" /></a></p> </center> </td>
+
+
+<!--<td> <center> <p><a href="http://nhl.com/panthers" target="_new"><img src="images/panthers.png" width="150" height="150" alt="panthers" /></a></p> </center> </td>
 </tr>
 <!--<td colspan = "4"> 
  <center><a href="https://www.sunshinestatekosher.org//" target="_new"><img src="images/sunshinestatekosher.webp" width="150" height="80" alt="sunshinestatekosher" /></a> </center>  </td>-->
-<td> <center> <p><a href="https://www.facebook.com/Wall-To-Wall-Nuts-193096840711980" target="_new"><img src="images/wall.png" width="150" height="150" alt="wall" /></a></p> </center> </td>
+
+		
+			
+			<!--
+<td> <center> <p><a href="https://www.burntbocafl.com/" target="_new"><img src="images/burnt.png" width="175" height="100" alt="burnt" /></a></p> </center> </td>-->
 			</tr>
+			
 			 		 	 	 	 	 	 	                 
 			 		 	 	 	 	 	 	                   </table></CENTER>
 				 		 
@@ -160,7 +196,7 @@ else
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
+        <a href="https://player.listenlive.co/63891" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
         
     <p>&nbsp;</p></div>
         
