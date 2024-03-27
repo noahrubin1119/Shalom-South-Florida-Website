@@ -17,6 +17,34 @@
 
   gtag('config', 'UA-133425722-1');
 </script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '220786502961938');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=220786502961938&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 1006472116 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1006472116"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1006472116');
+</script>
 <meta name="viewport" content="width=device-width">
 
 </head>
@@ -54,7 +82,7 @@ else
     </div>
  </div>
   <div id="menu">
-  <div class="centeredmenu">
+    <div class="centeredmenu">
     <ul> 	
 			<li><div id="content-mobile"><div class="dropdown" style="float:left;">
 				<button class="dropbtn"><img src="images/menu3.png" height="30px" style="transform: translateY(15%);"></img></button>
@@ -63,7 +91,7 @@ else
 						<a href="about.php" title="">About Us</a><br>
 						<a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a><br>
 						<a href="coverage.php" title="">Coverage Map</a><br>
-						<a href="recommended.php" title="">Recommended Links</a><br>
+						<a href="images/SSF_FLYER.pdf" title="">Printable Flyer</a><br>
 						<a href="contact.php" title="">Contact Us</a><br>
 						<a href="podcasts.php"><u><strong>Podcasts</strong></u></a><br>
 						<a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a><br>
@@ -77,13 +105,13 @@ else
             <li><a href="about.php" title="">About Us</a></li>
             <li><a href="sponsors.php" title=""><u><strong>Our Sponsors</strong></u></a></li>
             <li><a href="coverage.php" title="">Coverage Map</a></li>
-            <li><a href="recommended.php" title="">Recommended Links</a></li>
+            <li><a href="images/SSF_FLYER.pdf" title="">Printable Flyer</a></li>
             <li><a href="contact.php" title="">Contact Us</a></li>
             <li><a href="podcasts.php"><u><strong>Podcasts</strong></u></a></li>
 			<li><a href="https://www.gofundme.com/f/shalom-south-florida?member=&utm_medium=email&utm_source=customer&utm_campaign=p_email%2Binvitesupporters" target="_blank"><u><strong>Support Us</strong></u></a></li>
 			</div>
 	</ul>
-</div>	
+</div>		
   </div>
   <div id="main_container">
   <div class="left_content">
@@ -94,6 +122,14 @@ its favorite Jewish music on &quot;Shalom South Florida.&quot; This popular prog
 Chassidic, Israeli, and Yiddish music, as well as Jewish news and other items of interest
 to this large market. Jewish comedy, on-air contests, and informative interviews are
 always part of this exciting show.</p>
+
+
+<div id="content-mobile">
+<CENTER>
+<a href="https://player.listenlive.co/63891" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" width="40%" /></a>
+</CENTER>
+</div>
+
 	<div class="title">The Host</div>
     <p>	Jewish radio host, Roni, makes sure that all listeners have a great time listening to
 &quot;Shalom South Florida&quot; every Sunday. First hitting the South Florida airwaves in 1986,
@@ -101,15 +137,21 @@ Roni quickly became Florida&#39;s Jewish radio &quot;maven.&quot; Roni has an M.
 Mass Communication.</p>
 
 <div class="title">Ways to Listen to Shalom South Florida:</div>
-      <p>Every Sunday from 9:30-11:00 AM Eastern Time, or listen to some of our recent podcasts on the <a href="../podcasts.php">podcasts page</a>.
-	  
-	  <ol>
-		<li>In South Florida: WWNN 1470 AM</li>
-		<li>N. Broward &amp; South Palm Beach – 95.3 &amp; 96.9 FM (Check the <a href="../coverage.php">Coverage Map</a>)</li>
-		<li>Worldwide: <a href="http://www.WWNNradio.com" target="_blank">www.WWNNradio.com</a></li>
-		<li>Free Apps: iradionow; iheartradio, tuneinradio (Call Letters: WWNN)</li>
-	</ol></p>
-    <p>&nbsp;</p>
+      <p>Sundays from 9:30-11:00 AM (ET):.
+	<p><u>In South Florida:</u> </p>
+	  <ul>
+		<li>In the Palm Beaches: 95.9FM &amp; 106.9FM</li>
+		<li>South Palm Beach:  95.3FM</li>
+		<li>In N. Broward: 96.9FM</li>
+		<li>Miami-Dade WSFS 104.3HD3</li>
+	</ul>
+	<p><u>Worldwide:</u></p>
+	  <ul>
+	<li><a href="https://player.listenlive.co/63891" target="_blank">www.oldiessouthflorida.com</a></li>
+	<li>Listen to some of our recent shows on the <a href="../podcasts.php">podcasts page</a></li>
+	<li>On most radio apps</li>
+	</ul>
+	</p>
     
     <div class="photo_gallery">
    	  <div class="left_nav"></div>
@@ -122,7 +164,7 @@ Mass Communication.</p>
     
   <div class="right_content">
     	
-        <a href="http://wwnnradio.com" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
+        <a href="https://player.listenlive.co/63891" target="_new"><img src="images/listen_live.gif" alt="" title="" class="listen_live" border="0" /></a><!--Start of Calendar Event--><!--End of Calendar Event-->
     
 		<img src="images/roni.jpg" width="85%"></img>
 		</br></br>
@@ -148,7 +190,7 @@ Mass Communication.</p>
      <div id="footer">
     	<div class="footer_links">                      
         <a href="index.php">home</a>
-        <a href="http://WWNNradio.com" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
+        <a href="https://player.listenlive.co/63891" target="_new">listen live</a><a href="contact.php">contact us</a><a href="#"> </a>
         
        <p>&nbsp;</p></div>
         
